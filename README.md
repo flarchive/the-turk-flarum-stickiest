@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of the-turk/flarum-stickiest.** Not for installation: use [Packagist](https://packagist.org/packages/the-turk/flarum-stickiest) or the [upstream repository](https://github.com/the-turk/flarum-stickiest).
 
-**0** versions archived · Latest: [`3.0.1`](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v3.0.1) · License: `MIT` · Flarum: `>=1.2.0`
+**20** versions archived · Latest: [`3.0.1`](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v3.0.1) · License: `MIT` · Flarum: `>=1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0-beta.2` | 2021-06-30 | `^1.0.2` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v2.0.0-beta.2) |
+| `2.0.1` | 2021-07-04 | `^1.0.2` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v2.0.1) |
+| `2.0.2` | 2021-07-10 | `^1.0.2` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v2.0.2) |
+| `2.0.3` | 2021-07-23 | `^1.0.2` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v2.0.3) |
+| `3.0.0` | 2022-07-24 | `>=1.2.0` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v3.0.0) |
+| `3.0.1` | 2022-08-07 | `>=1.2.0` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v3.0.1) |
+| `v0.1.0-beta.12` | 2020-03-03 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v0.1.0-beta.12) |
+| `v0.1.0-beta.13` | 2020-05-04 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v0.1.0-beta.13) |
+| `v0.1.0-beta.14` | 2020-10-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v0.1.0-beta.14) |
+| `v0.1.0-beta.15` | 2020-12-15 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/the-turk-flarum-stickiest/tree/archive/v0.1.0-beta.15) |
+
+[View all 20 versions](https://github.com/flarchive/the-turk-flarum-stickiest/tags)
 
 Catalog entry: [packages/the-turk-flarum-stickiest.json](https://github.com/flarchive/archive-index/blob/main/packages/the-turk-flarum-stickiest.json)
 
